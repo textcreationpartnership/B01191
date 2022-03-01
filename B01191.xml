@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter which Monsieur Desdiguieres constable of France, hath sent to the king his master to perswade him by pregnant reasons to make peace with the Rochellers, and the other Protestants who liue in his dominions ... The lading of two Hollandish ships which are [-] from Porto Ricco, which towne the Hollanders haue taken in the West Indies. The censure and condemnation of a booke (lately written by a Iesuite, De potestate pape) by the court of Parliament, which hath beene since publikely burned at Paris. The strange death of Peter Cotton a Iesuite. The new admiraltie which is to be [created?] both in Spaine and the subdued prouinces of the Low Countries to the great hurt and dammage of seuera[ll] potentates, princes and states of Christendome, vnlesse they looke in good time to themselues.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01191</idno>
+            <idno type="STC">STC 6877.5</idno>
+            <idno type="STC">ESTC S113593</idno>
+            <idno type="EEBO-CITATION">52633172</idno>
+            <idno type="OCLC">ocm 52633172</idno>
+            <idno type="VID">173983</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173983)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2113:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter which Monsieur Desdiguieres constable of France, hath sent to the king his master to perswade him by pregnant reasons to make peace with the Rochellers, and the other Protestants who liue in his dominions ... The lading of two Hollandish ships which are [-] from Porto Ricco, which towne the Hollanders haue taken in the West Indies. The censure and condemnation of a booke (lately written by a Iesuite, De potestate pape) by the court of Parliament, which hath beene since publikely burned at Paris. The strange death of Peter Cotton a Iesuite. The new admiraltie which is to be [created?] both in Spaine and the subdued prouinces of the Low Countries to the great hurt and dammage of seuera[ll] potentates, princes and states of Christendome, vnlesse they looke in good time to themselues.</title>
+                  <author>Lesdiguiéres, François de Bonne, duc de, 1543-1626.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mercurius Britan[icus],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1626.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Imperfect: faded, with considerable loss of text; bracketed material conjectured by cataloger.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+               <term>Europe --  Politics and government --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173983:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:173983:1"/>
+            <!-- PDF PAGE 1 -->
+            <p>A Letter which <hi>Monſieur Deſdiguieres</hi> Conſtable of <hi>France,</hi> hath ſent to the King his Maſter, to perſwade him by pregnant Reaſons to make Peace <hi>with the</hi> Rochellers, <hi>and the other Proteſtants which liue in his Dominions, and to ſhew how neceſſary it is</hi> that the King of <hi>France</hi> enter in league with the Proteſtants and other Potentates, Princes and <hi>States of Chriſtendome to make warre againſt Spaine</hi> to hinder the King of <hi>Spaine</hi> from the vniuerſall Monar<g ref="char:EOLhyphen"/>chie to which hee aſpireth.</p>
+            <p>
+               <hi>The lading of two Hollandiſh Ships which are come</hi> from <hi>Porto Ricco,</hi> which Towne the <hi>Hollanders</hi> haue taken in the Weſt Indies.</p>
+            <p>The cenſure and condemnation of a Booke (lately written by a Ieſuite, <hi>De Potestate Papa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>)</hi> by the Court of Parliament, which hath <hi>beene ſince publikely burned at</hi> Paris.</p>
+            <p>The ſtrange death of <hi>Peter Cotton</hi> a Ieſuite.</p>
+            <p>
+               <hi>The new Admiraltie which is to be erected both in Spaine</hi> and the ſubdued Prouinces of the <hi>Low-coun<g ref="char:EOLhyphen"/>tries to the great hurt and dammage of ſeuerall</hi> Potentates, Princes and States of <hi>Chriſtendome, vnleſſe they</hi> looke in good time <hi>to themſelues.</hi>
+            </p>
+            <p>Printed for <hi>Mercurius Britanicus.</hi> 1626.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:173983:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:173983:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>A Letter which <hi>Monſieur Deſdiguieres</hi> Conſtable of France hath ſent to the King his Maſter to per<g ref="char:EOLhyphen"/>ſwade him by pregnant reaſons to make peace with the <hi>Rochellers,</hi> and the other Proteſtants which liue in his Dominions, and to ſhew how neceſſarie it is that the King of France enter in League with the Proteſtants and other Potentates, Princes and States of Chriſtendome to make warre againſt Spaine, to hinder the King of Spaine from the V<g ref="char:EOLhyphen"/>niuerſall Monarchie to which hee aſpireth.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Baron of Copet hauing informed me few dayes agoe of the preſent ſtate of the affaires of Rochel, and <hi>Arſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the Extraordinary Embaſſadour which the States haue ſent to your Maieſty, hauing ad<g ref="char:EOLhyphen"/>ded to it the diſpatch which I ſend with this preſent, I haue thought my ſelfe bound, both by reaſon of the importance of the matter, &amp; in regard of the affection which I haue had alwayes to the good of your ſeruice, to ſup<g ref="char:EOLhyphen"/>plicate and beſeech your Maieſty, that you will be pleaſed to find good that I ſhew vnto you, with all the reſpect I can, that although the obſtinacie of this people is exceſſiue, &amp; that it ſeemeth that nothing can be added to their hardneſſe, your prudence may neuer<g ref="char:EOLhyphen"/>theleſſe
+<pb n="2" facs="tcp:173983:3"/>
+               <!-- PDF PAGE 3 -->
+keepe backe the effects of the reſolu<g ref="char:EOLhyphen"/>tions, which a juſt anger hath made you to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and make you to deferre them till an o<g ref="char:EOLhyphen"/>ther occaſion, to ſhew the diſpleaſure and diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontentment which you haue conceiued againſt them: for I aſſure you that it is as true as the light ſhineth, that if your Majeſty will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſſention to grow in your State, that he giueth the game wonne to the <hi>Spaniards,</hi> and openeth vnto them the gate to the Vni<g ref="char:EOLhyphen"/>uerſall Monarchie. It is you Sir that can hin<g ref="char:EOLhyphen"/>der them from comming to it, and this ſame reaſon moueth all other powers of Chriſten<g ref="char:EOLhyphen"/>dome to relie vpon yours: without the ayde which they haue, and expect from you in this occaſion, all their reſiſtance is in vaine. And if according to the ayme and ſcope of this common Enemy, the domeſticke occupati<g ref="char:EOLhyphen"/>on diuert you from it, they ſhall be in danger to carry the yoke which they ſhun, and your Majeſties ſelfe ſhall put your State in ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to fall into great inconueniences. I write <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this to excuſe them in any manner, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſe diſobeiſance hath made them guiltie, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for aſmuch as concerneth the <hi>Rochellers,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not to condemne them with all the
+<pb n="3" facs="tcp:173983:3"/>
+               <!-- PDF PAGE 3 -->
+rigours of the World. For it is certaine that they haue commited a crime, of which after your Majeſty, God hath reſerued the venge<g ref="char:EOLhyphen"/>ance vnto himſelfe. For I hold Sir, that they ought to acknowledge you abſolutely, and with an obeyſance without any condition, &amp; that they are bound to doe vnto you all en<g ref="char:EOLhyphen"/>deuours of good, and faithfull ſubjects. But it is likewiſe certain, that as you are one of the wiſeſt Kings of the World, you may vſe in this matter your Royall prudence, and practiſe this neceſſary courſe, which ſeemeth to bee a part of the Royall Functions. Now foraſmuch as concerneth your ſtate, to kindle the warre in the ſame, is to open the gate vn<g ref="char:EOLhyphen"/>to the <hi>Spaniards,</hi> and (I beſeech you Sir) doubt not that they labour with all their power to increaſe it. The like cauſes haue in former times brought it into ſuch confuſions that the end of them hath hardly beene ſeene after the expiration of fifty yeeres: The ſame hath at other times cauſed all the diſorders &amp; miſchiefes, which could not otherwiſe be re<g ref="char:EOLhyphen"/>medied then by the valor of the late king your Father. I doubt not but that amongſt them which haue the honour to come neere to
+<pb n="4" facs="tcp:173983:4"/>
+               <!-- PDF PAGE 4 -->
+your Majeſty, there are ſome which will la<g ref="char:EOLhyphen"/>bour to make ſuſpect the aduice and counſell which I giue, and will metamorphoſe my ſinceritie into a ſecret ſupport of the Rebels. But I giue thankes vnto God, that your Ma<g ref="char:EOLhyphen"/>jeſtie will not bee carried away with falſe im<g ref="char:EOLhyphen"/>preſſions, which others will conceiue to the prejudice of your Majeſties loyall ſeruants. The time it ſelfe juſtifieth enough that my counſel haue no other ſcope then your Ma<g ref="char:EOLhyphen"/>jeſties ſeruice. But neither that which may hee ſaid to diſguiſe and diſgrace my faithfull intentions, nor that which may bee inuented <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll minded perſons, who labour to make me vnprofitable and vnſeruiceable, ſhall ne<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> able to hinder mee from giuing your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to vnderſtand (as I am bound) my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mind: And I ſhall not leaue to proteſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> my conſcience) that ſuch as will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Maieſty to beare armes againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and to kindle the warre, which will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> become a generall warre, doe neither w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>unſell or ſerue your Majeſty. For al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is belieued, that it will come nei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngued<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck</hi> nor in <hi>Guienne,</hi> the contra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeene. And I am ſure that your
+<pb n="5" facs="tcp:173983:4"/>
+               <!-- PDF PAGE 4 -->
+Maieſty knoweth that which is done in one of thoſe Prouinces: In another occaſion if they doe not mend themſelues, you ſhall al<g ref="char:EOLhyphen"/>wayes haue the ſame power, yea, (if it may ſo be ſpoken) you ſhall haue better meanes, and it may bee that in the meane time they ſhall come to the acknowledgement of their endeuours. Moreouer, I may ſay that your Maieſty hauing atchieued with glory the af<g ref="char:EOLhyphen"/>faires of <hi>Italy,</hi> you may triumph at one time ouer two enemies; namely, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omeſticke and Forreine, in lieu that if you will rather expell the other, then ſubdue theſe, you ſhall loſe the preſent aduantages which neuer had any of all the Kings your Predeceſſours. It may pleaſe your Maieſty to pardon me, and to attribute the freedome of my diſcourſe to the affection which I beare to your Maieſty. I expect your anſwere concerning this mat<g ref="char:EOLhyphen"/>ter, and pray God that hee will repleniſh you with all manner of graces and fauours.</p>
+            <closer>
+               <signed>Your Maieſties most humble moſt obey<g ref="char:EOLunhyphen"/>ſant and moſt faithfull ſubject, and ſeruant, <hi>DESDIGVIERES.</hi>
+               </signed>
+               <dateline>Turin
+<date>
+                     <hi>the</hi> 24. <hi>of</hi> December 1625.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_cargo">
+            <pb n="6" facs="tcp:173983:5"/>
+            <!-- PDF PAGE 5 -->
+            <head>The lading of two <hi>Hollandiſh</hi> Ships, which are come from <hi>Porto Ricco</hi> with good priſes.</head>
+            <p>
+               <list>
+                  <head>In the one Ship are twelue bags with <hi>2400. Rials of eight.</hi>
+                  </head>
+                  <item>1. bagge with three pounds of Siluer.</item>
+                  <item>1. A Croſſe of Siluer.</item>
+                  <item>51. Cheſts with Sugar.</item>
+                  <item>40. Laſt, or eighty tunnes of Ginger.</item>
+                  <item>12 Hides.</item>
+                  <item>23. Cheſts with Tobacco.</item>
+                  <item>6 Cheſts with Money of Braſſe.</item>
+                  <item>6. Baſons of Copper.</item>
+                  <item>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Cheſt with Copper.</item>
+               </list>
+               <list>
+                  <head>In the other are</head>
+                  <item>2200. Hides.</item>
+                  <item>172. Bales of Ginger.</item>
+                  <item>4. Double Cheſts of Sugar.</item>
+                  <item>18. Iron Peeces of Ordnance.</item>
+                  <item>1. Barrell with ſteele.</item>
+                  <item>2. Cheſts with Frankincenſe.</item>
+                  <item>1600 Rials of eight.</item>
+               </list>
+            </p>
+         </div>
+         <div type="account">
+            <pb n="7" facs="tcp:173983:5"/>
+            <!-- PDF PAGE 5 -->
+            <head>The new Admiralty which is to be <hi>erected both in Spaine and the ſubdued</hi> Prouinces of the <hi>Low-Countries,</hi> to the <hi>great hurt and dammage of ſeuerall Po<g ref="char:EOLhyphen"/>tentates, Princes,</hi> and <hi>States</hi> of Chriſten<g ref="char:EOLhyphen"/>dome, vnles it be timely preuented. I.</head>
+            <p>SEeing that it is the mind and will of our gratious Lord &amp; King, to vſe all means, which may tend and ſerue to increaſe the traffick and trading betwixt our Subiects of the kingdomes of <hi>Spaine,</hi> and them of his Maieſties hereditary <hi>Netherlands,</hi> intending to erect and augment thereby both the olde and new workmanſhips, and ſuch as may yet be found out, and to further the ſale of them which ſhall bee made in thoſe Lands, which are vnder his ſubiection: As likewiſe to hinder that the workmanſhips and mer<g ref="char:EOLhyphen"/>chandizes of the Rebels be not brought and ſold in the afore-mentioned Lands of <hi>Spaine</hi> by deceit, or any colour, or pretext whatſo<g ref="char:EOLhyphen"/>euer.</p>
+            <p>His Maieſty hath found good and fitting to ordaine, that all the goods, wares, manu<g ref="char:EOLunhyphen"/>factures
+<pb n="8" facs="tcp:173983:6"/>
+               <!-- PDF PAGE 6 -->
+and merchandizes of theſe Lands, ſhall be laden in the ports of the ſame, to be caryed thence into <hi>Spaine.</hi>
+            </p>
+            <p n="2">II. And to doe this conueniently, &amp; with more ſecurity, and that the goods of <hi>Spaine</hi> may in the ſame maner be brought into the Ports of the aforementioned Lands which are vnder his Maieſties ſubiection; his Ma<g ref="char:EOLhyphen"/>ieſty hath beene pleaſed to grant by a Patent (dated <hi>Octob.</hi> 4. 1624.) to his faithfull ſubiects of theſe Lands, both to them which dwel in <hi>Spaine</hi> and here, that they may erect &amp; make a Company for trading and trafficke, vnder the name and title of Admiralty.</p>
+            <p n="3">III. That they ſhall haue leaue to arme, &amp; ſet forth vnder the ſame name &amp; title of Ad<g ref="char:EOLhyphen"/>miralty, in the firſt beginning of it, the num<g ref="char:EOLhyphen"/>ber of 24 men-of-warre, to ſerue them in the aforeſaid trading and trafficke.</p>
+            <p n="4">IIII. In which ſhips onely ſuch ſhal haue power to lade their goods, and none elſe, as ſhall haue contributed to the ſetting forth of them, and be inrolled in the Company, or Admiralty<g ref="char:punc">▪</g> with this aduantage, that the danger of the Sea and enemy, ſhall be at the generall charge of the Company, vpon con<g ref="char:EOLhyphen"/>dition,
+<pb n="9" facs="tcp:173983:6"/>
+               <!-- PDF PAGE 6 -->
+that the owners of the goods ſhal pay ſuch a <hi>praemio</hi> or reward to the Company, as in reaſon ſhall be appointed by common voyces.</p>
+            <p n="5">V. It is his Maieſties will, that all the ma<g ref="char:EOLhyphen"/>nufactures which ſhalbe laden or imbarked in theſe Lands, in the ſhips of the aforemen<g ref="char:EOLhyphen"/>tioned Admiralty, ariuing in <hi>Spaine,</hi> ſhall be eſteemed and receiued as free goods, &amp; true manufactures of theſe Lands which are vn<g ref="char:EOLhyphen"/>der the ſubiection of his Maieſty, ſo that in <hi>Spaine</hi> there ſhall not be made any ſearch, in<g ref="char:EOLhyphen"/>quiry, trouble or hindrance to them, conſi<g ref="char:EOLhyphen"/>dering that the diligence and care which ſhall be taken in theſe Lands ſhal be accoun<g ref="char:EOLhyphen"/>ted ſufficient to auoid all manner of deceit.</p>
+            <p n="6">VI. The ſame ſhall likewiſe be obſerued in regard of all other wares and merchandi<g ref="char:EOLhyphen"/>zes, which ſhall here be laden in the afore<g ref="char:EOLunhyphen"/>mentioned ſhips of the Admiralty.</p>
+            <p n="7">VII. And no manufactures of theſe lands which ſhall not be laden or imbarked in the Ports which are vnder his Maieſties ſubiec<g ref="char:EOLhyphen"/>tion, but be ſent through other Lands, ſhall be admitted into <hi>Spaine,</hi> but to the contrary, be arreſted and confiſcated.</p>
+            <p n="8">
+               <pb n="10" facs="tcp:173983:7"/>
+               <!-- PDF PAGE 7 -->VIII. To aid this deſigne, and to eaſe the ſayd Admiralty of the charges of the afore<g ref="char:EOLhyphen"/>ſaid ſhips, which it is to vndergoe, and to re<g ref="char:EOLhyphen"/>paire the dammages and loſſes which may now and then happen, his Maieſty hath con<g ref="char:EOLhyphen"/>ſented that the afore-mentioned Admiralty ſhall receiue and take one in the hundred of all the goods which ſhall eyther come in or goe out of the ports of <hi>Andaluſia,</hi> and of the Kingdome of <hi>Granado,</hi> which ſhall eyther he caryed Northwards, as namely towards <hi>France, England, Flanders, Eaſt land, &amp;c.</hi> or be brought thence into the afore-ſaid ports of <hi>Spaine.</hi>
+            </p>
+            <p n="9">IX. Which one in the hundred, amoun<g ref="char:EOLunhyphen"/>teth now (notwithſtanding there is but little trading to about 90000 Ducats <hi>per Annum,</hi> and may bee augmented and increaſed to 3. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the hundred<g ref="char:punc">▪</g> when the aforeſayd Com<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Admiralty ſhal be ſetled within this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p n="10">X. Moreouer, his Maieſty giueth to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Admiralty fourty thouſand of Ducats <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the which ſumme, is to be found and p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> according to the content of the ſaid <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nt</p>
+            <p n="11">
+               <pb n="11" facs="tcp:173983:7"/>
+               <!-- PDF PAGE 7 -->XI. And the afore-mentioned Admiralty ſhall likewiſe haue power to lay ſuch a tax<g ref="char:EOLhyphen"/>ation and charge vpon the goods that ſhall be imbarked in theſe Lands, as ſhall bee thought reaſonable in conſideration of the cuſtomes, charges, and impoſitions which the ſame goods are to beare when they are ſent through <hi>France, &amp;c.</hi>
+            </p>
+            <p n="12">XII. Alſo, the fraughts of all the goods, which ſhall be tranſported to what place ſo<g ref="char:EOLhyphen"/>euer by the ſhips of the Admiralty, ſhall be<g ref="char:EOLhyphen"/>long to the Company.</p>
+            <p n="13">XIII. Beſides all this, it is the intention of his maieſty, to tranſport to the ſaid Admi<g ref="char:EOLhyphen"/>raltie, by a contract the Merchandizes called in <hi>Spvine, Mercaderias de Rey,</hi> as namely, Salt, Spices, Cochineil, Wooll, Hides, and other, or ſuch ſort, and part as the Admiraltie ſhall thinke fit to accept of, and all the gaine that ſhall be made by them, ſhall be for the good of the company of the Admiraltie.</p>
+            <p n="14">XIIII. Which ſeuerall parcells of reuen<g ref="char:EOLunhyphen"/>nues and profits ſhall farre exceed the yeer<g ref="char:EOLhyphen"/>ly charges for the maintenance of the afore<g ref="char:EOLhyphen"/>mentioned foure and twentie ſhips.</p>
+            <p n="15">
+               <pb n="12" facs="tcp:173983:8"/>
+               <!-- PDF PAGE 8 -->XV. Without making any account of the confiſcations, &amp; other aduantages which his Maieſty is granting to the ſaid Admiralty, by the ſaid Grant, or Patent. Among which aduantages, it is no ſmall thing to be accoun<g ref="char:EOLhyphen"/>ted, that it is his Maieſties wil and deſire, that his ſubiects of theſe his obeiſant Lands, and their children, which ſhall haue part in this Company or Admiralty, ſhall bee preferred to all dignities and offices, which ſhall be va<g ref="char:EOLhyphen"/>cant in theſe <hi>Netherlands,</hi> and ſort with their quality; if they ſhall demand them, &amp; ſerue them in their owne perſons.</p>
+            <p n="16">XVI. In ſuch manner, that they which cauſe themſelues to be inrolled in this Com<g ref="char:EOLhyphen"/>pany may expect both profit and honor.</p>
+            <p n="17">XVII. For the erecting of which the <hi>Ne<g ref="char:EOLhyphen"/>therlanders</hi> which are reſident in <hi>Sivil,</hi> haue made a beginning, by forming of their Col<g ref="char:EOLhyphen"/>ledge (or Court) and in ſetting forth diuers good ſhips, for the ſeruice of the generall Company.</p>
+            <p n="18">XVIII. So that to bring this Admiralty to a full effect, and a beginning of Nauigation may be made, there wants nothing elſe, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at here in theſe Lands there be made a
+<pb n="13" facs="tcp:173983:8"/>
+               <!-- PDF PAGE 8 -->
+Company of all ſuch as will come into it, and haue their part and ſhare therein, who may henceforth declare themſelues, to the in<g ref="char:EOLhyphen"/>tent that out of them may be choſen ſuch a number as ſhalbe neceſſary for the direction and adminiſtration of the ſayd Admiralty, which ſhall haue her chiefe Colledge in the City of <hi>Antwerp.</hi>
+            </p>
+            <p n="19">XIX. Which Directors or Deputies ſhall with the conſent of the Deputies that are in <hi>Sivil,</hi> &amp; after communication with the com<g ref="char:EOLhyphen"/>mon participants in the Company, ordayne a forme and manner how they may keepe their correſpondency, and diuide the profits of the ſayd Company.</p>
+            <p n="20">XX. This being done to the full content<g ref="char:EOLunhyphen"/>ment of euery one, and a good order made for the gouernment of the ſaid Admiralty, and not before, ſhall ſuch perſons which will be declared as participants declare how much they will contribute and lay in it, the which may not be leſſe, but more then the ſumme of</p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb facs="tcp:173983:9"/>
+            <!-- PDF PAGE 9 -->
+         </div>
+      </body>
+   </text>
+</TEI>
